@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+- name: DevConnect community discussion
+  url: https://github.com/DevConnectLtd/.github/discussions/
+  about: Please ask and answer questions here.
+- name: Community Server
+  url: https://discord.gg/aJ5QuJbP5c
+  about: Join our community server for a more complete experience
+  
